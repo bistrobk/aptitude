@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "704651541098",
+    "project_id": "chatbot-93c08",
+    "storage_bucket": "chatbot-93c08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704651541098:android:7adea2a4fbf93659f7a813",
+        "android_client_info": {
+          "package_name": "com.griffith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704651541098-heasrti8h4ubntnuic8dqetrjqpa4h22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDa_xEM9Aa4YT65_CDbUXxLl39MrlgUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704651541098-heasrti8h4ubntnuic8dqetrjqpa4h22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704651541098:android:914171a14e9cc9e1f7a813",
+        "android_client_info": {
+          "package_name": "com.griffith.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704651541098-heasrti8h4ubntnuic8dqetrjqpa4h22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDa_xEM9Aa4YT65_CDbUXxLl39MrlgUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704651541098-heasrti8h4ubntnuic8dqetrjqpa4h22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
